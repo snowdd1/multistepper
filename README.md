@@ -18,6 +18,8 @@ The requirements were:
 - *LEGO housings for the motors*
 - *zillions of LEGO technic sets* :smile:
 
+![](http://thingiverse-production-new.s3.amazonaws.com/renders/6f/bd/12/a7/9d/919c3f3f0250b8619e0a46c3170cb232_preview_featured.JPG)
+
 ## Install
 - just load the myStepper.ino into your arduino board
 - connect the driver boards to the arduino and to a power source
