@@ -59,7 +59,7 @@ The serial interface allows the following command to be send to the multistepper
 *Motors Off: Switches off all motor coils. The 28BYJ-48 tends to heat up very quickly so switching the magnetic coils off is recommended. For small (lego) models the gear ratio (~1:64) is large enough for the self-locking of the gear to hold the position.*
 
 **APO** 0/1  
-*Auto Power Off after Motion: Shuts down the coil current after completion of each **GA** command*
+*Auto Power Off after Motion: Shuts down the coil current after completion of each* **GA** *command*
 
 ### examples
 
